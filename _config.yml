@@ -64,8 +64,6 @@ eventPlace: "UBIC, The University of Aizu"
 aboutTitle: "About Postgraduate Forum"
 aboutBlock:
 - {text: "The Postgraduate Forum of ACM RACS 2022 seeks to provide a friendly, supportive, and constructive environment where postgraduate students can explore and develop their research interests in an interdisciplinary workshop guided by a panel of experienced researchers. The Postgraduate Forum offers an opportunity to share experiences with other postgraduate students and meet with accomplished international researchers and obtain feedback from them." }
-#  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
-#  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -169,25 +167,10 @@ ticketsOffers:
   soldOutText: "Sold Out"
 
 # Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
-footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "hoangle@u-aizu.ac.jp ", text: "hoangle@u-aizu.ac.jp "}
 
 # Blog
 blogTitle: "Latest news"
