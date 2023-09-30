@@ -1,26 +1,61 @@
 - 
   date: "2014-10-25"
-  dateReadable: "October 25"
+  dateReadable: "October 25th, 2023"
   tracks: 
     - {title: "Activity", color: "#90be4e"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "08:30",
+    	# endTime: "10:45",
     	sessionIds: [001]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
+    	startTime: "08:45",
+    	endTime: "09:30",
     	sessionIds: [002]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
+        startTime: "09:35",
+        endTime: "09:50",
         sessionIds: [003]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
+    	startTime: "09:55",
+    	endTime: "10:10",
     	sessionIds: [004]
+    }
+    - {
+    	startTime: "10:10",
+    	endTime: "10:20",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "10:25",
+    	endTime: "10:40",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "10:45",
+    	endTime: "11:30",
+    	sessionIds: [001]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "13:30",
+    	sessionIds: [503]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "14:15",
+    	sessionIds: [001]
+    }
+    - {
+    	startTime: "14:20",
+    	endTime: "15:10",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "15:10",
+    	endTime: "15:20",
+    	sessionIds: [307]
     }
