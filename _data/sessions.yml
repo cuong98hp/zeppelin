@@ -1,4 +1,8 @@
 -
+  id: 308
+  title: "Closing"
+  service: true
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
