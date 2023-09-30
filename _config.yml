@@ -167,10 +167,17 @@ ticketsOffers:
   soldOutText: "Sold Out"
 
 # Footer
+socialLinks:
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
  -
   title: "Contacts"
   links:
    - {link: "hoangle@u-aizu.ac.jp ", text: "hoangle@u-aizu.ac.jp "}
+
 
 # Blog
 blogTitle: "Latest news"
