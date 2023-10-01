@@ -28,7 +28,7 @@
   title: "TBD"
   description: "TBD"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [2]
   # language: en
   # complexity: "Intermediate" 
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -38,25 +38,25 @@
   title: "TBD"
   description: "TBD"
   subtype: presentation
-  speakers: [4]
+  speakers: [3]
 -
   id: 004
   title: "TBD"
   description: "TBD"
   subtype: keynote
-  speakers: [6]
+  speakers: [4]
 -
   id: 005
   title: "From Postdoc to Prof. Univ."
   description: "TBD"
   subtype: keynote
-  speakers: [7]
+  speakers: [5]
 -
   id: 006
   title: "From Japanese company to University's Professor"
   description: "TBD"
   subtype: keynote
-  speakers: [7]
+  speakers: [6]
 -
   id: 007
   title: "TBD"
@@ -68,10 +68,10 @@
   title: "TBD"
   description: "TBD"
   subtype: keynote
-  speakers: [7]
+  speakers: [8]
 -
   id: 009
   title: "Working in Industry"
   description: "TBD"
   subtype: keynote
-  speakers: [7]
+  speakers: [9]
