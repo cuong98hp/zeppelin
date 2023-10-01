@@ -10,28 +10,24 @@
   id: 2
   name: "PhD 1"
   company: "The University of Aizu"
-  title: "TBD"
   bio: "TBD"
   thumbnailUrl: no-face.png
 - 
   id: 3
   name: "PhD 2"
   company: "The University of Aizu"
-  title: "TBD"
   bio: "TBD"
   thumbnailUrl: no-face.png
 - 
   id: 4
   name: "PhD 3"
   company: "The University of Aizu"
-  title: "TBD"
   bio: "TBD"
   thumbnailUrl: no-face.png
 - 
   id: 5
   name: "Prof. PHAM Van Thanh"
   company: "Shizuoka University"
-  # title: "Software Engineer"
   bio: "TBD"
   thumbnailUrl: no-face.png
   rockstar: true
